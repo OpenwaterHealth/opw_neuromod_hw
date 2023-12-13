@@ -13,6 +13,11 @@ A system built on open-TFUS is made of:
 * Software for computing what signals the transducer will have to send to treat the target
 * Hardware for driving the transducer to generate those signals and deliver the treatment.
 
+# Getting Started
+To get started setting up a system with open-TFUS, you can refer to the user manual and documentation in the following repositories:
+* [opw_neuromod_hw](https://github.com/OpenwaterHealth/opw_neuromod_hw): instruction manuals, mechanical drawings and 3D models
+* [opw_neuromod_sw](https://github.com/OpenwaterHealth/opw_neuromod_sw): software for configuring and controlling systems
+
 # License
 This project is licensed under the GNU Affero General Public License v3.0. See [LICENSE](LICENSE) for details.
 
