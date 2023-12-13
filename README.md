@@ -13,8 +13,6 @@ A system built on open-TFUS is made of:
 * Software for computing what signals the transducer will have to send to treat the target
 * Hardware for driving the transducer to generate those signals and deliver the treatment.
 
-See the [wiki](https://github.com/OpenwaterInternet/opw_neuromod_hw/wiki) for more information 
-
 # License
 This project is licensed under the GNU Affero General Public License v3.0. See [LICENSE](LICENSE) for details.
 
