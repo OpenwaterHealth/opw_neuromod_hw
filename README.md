@@ -3,7 +3,6 @@ This repository contains the hardware designs and instructions for OpenWater's T
 
 For additional details on open-tFUS and its applications, refer to the [wiki](http://162.246.254.83/index.php/Neuromodulation).
 
-## Overview
 # Getting Started
 To setup an open-TFUS system, you'll need to follow the assembly instructions contained in this repository. You will also need to download and install the software found in this repository: [opw_neuromod_sw](https://github.com/OpenwaterHealth/opw_neuromod_sw)
 
