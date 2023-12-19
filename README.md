@@ -1,5 +1,5 @@
-# opw_neuromod_hw
-Openwater's Open-Source Neuromodulation Hardware
+# Open-TFUS Neuromodulation Platform
+This repository contains the hardware designs and instructions for OpenWater's Transcranial Focused Ultrasound Platform. Open-TFUS is an ultrasound platform designed to help researchers transmit focused ultrasound beams into subject’s brains, so that those researchers can learn more about how different types of ultrasound beams interact with the neurons in the brain. Unlike other focused ultrasound systems which are aimed only by their placement on the head, Open-TFUS uses an array to precisely steer the ultrasound focus to the target location, while its wearable small size allows transmission through the forehead into the brain at a precise spot even when the patient is moving.
 
 For additional details on open-tFUS and its applications, refer to the [wiki](https://wiki.openwater.health/index.php/Neuromodulation).
 
